@@ -10,7 +10,8 @@ class Example1:
 area:Example1 =Example1()
 
 
+#Calculate the circle area  
 print("Area Calculator")
 radius= float(input("Enter the radius of the circle:"))
-area = area.rad(radius)
+area = area.area(radius)
 print(f"The Area is: {area}")

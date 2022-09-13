@@ -1,3 +1,4 @@
+#Mini example of multiplication in bytes   
 class Example2:
     
     def __init__(self) -> None:
@@ -5,3 +6,4 @@ class Example2:
 
     def calculateMemory(self,bytes):
         return self.computerMemory * bytes 
+

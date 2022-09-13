@@ -1,6 +1,7 @@
 from NumbersArray import NumbersArray
 
-
+#Multiplication with list 
+#In this example we could calculate the area (b * h)
 example3 = NumbersArray()
 example3.setNumbers(2)
 numbers=example3.getNumbers()
